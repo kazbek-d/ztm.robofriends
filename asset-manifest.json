@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kazbek-d/ztm.robofriends/static/css/main.e5e43d5e.css",
-    "main.js": "/kazbek-d/ztm.robofriends/static/js/main.3f6cdaf9.js",
-    "static/js/453.eceb90f9.chunk.js": "/kazbek-d/ztm.robofriends/static/js/453.eceb90f9.chunk.js",
-    "static/media/SEGA.woff": "/kazbek-d/ztm.robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/kazbek-d/ztm.robofriends/index.html",
-    "main.e5e43d5e.css.map": "/kazbek-d/ztm.robofriends/static/css/main.e5e43d5e.css.map",
-    "main.3f6cdaf9.js.map": "/kazbek-d/ztm.robofriends/static/js/main.3f6cdaf9.js.map",
-    "453.eceb90f9.chunk.js.map": "/kazbek-d/ztm.robofriends/static/js/453.eceb90f9.chunk.js.map"
+    "main.css": "/ztm.robofriends/static/css/main.335c6666.css",
+    "main.js": "/ztm.robofriends/static/js/main.c37bdf7f.js",
+    "static/js/453.eceb90f9.chunk.js": "/ztm.robofriends/static/js/453.eceb90f9.chunk.js",
+    "static/media/SEGA.woff": "/ztm.robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ztm.robofriends/index.html",
+    "main.335c6666.css.map": "/ztm.robofriends/static/css/main.335c6666.css.map",
+    "main.c37bdf7f.js.map": "/ztm.robofriends/static/js/main.c37bdf7f.js.map",
+    "453.eceb90f9.chunk.js.map": "/ztm.robofriends/static/js/453.eceb90f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5e43d5e.css",
-    "static/js/main.3f6cdaf9.js"
+    "static/css/main.335c6666.css",
+    "static/js/main.c37bdf7f.js"
   ]
 }
